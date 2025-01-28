@@ -12,6 +12,8 @@ A full-stack application for managing products, including adding, updating, dele
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
 
+## Explaination: https://drive.google.com/file/d/1_XcEH0D3hHfvHIhr_zRcBiHbGkTMxRIV/view
+
 ## Overview
 
 This application is designed to provide a user-friendly interface for managing product details such as name, description, price, and stock quantity. The backend is built using ASP.NET Core with Web API, while the frontend is built with Angular, allowing users to perform CRUD (Create, Read, Update, Delete) operations on product data.
